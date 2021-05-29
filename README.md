@@ -17,3 +17,5 @@ When the cursor moves itself and draws a picture, it will look oddly satisfying.
 
 
   Each color is applied the same way the outline is drawn. Instead of using filters, centroid of each clusters are taken and the commands for puautogui is created using all the points which have selected centroid as their centers. 
+
+ https://towardsdatascience.com/how-i-used-machine-learning-to-automatically-hand-draw-any-picture-7d024d0de997 original article
