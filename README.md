@@ -5,7 +5,7 @@
  3. pyautogui for drawing using cursor
  4. coloring with k-means
 
-(#1)
+
   number of colors in the input image may be large and it may forever to complete the painting. so, kmeans is used to reduce the number of colors in the input image.
  
  
