@@ -1,5 +1,7 @@
 # KMEANS_PAINTING
 
+When the cursor moves itself and draws a picture, it will look oddly satisfying.
+
  1. K-means for reducing the number of colors in the image
  2. filters to detect the edges
  3. pyautogui for drawing using cursor
